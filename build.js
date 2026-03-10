@@ -181,6 +181,16 @@ const buildSyntax = (p) => ({
   "variable.parameter": { color: p.fg },
   "variable.special": { color: p.purple, font_style: "italic" },
   variant: { color: p.purple },
+
+  // Markdown-specific scopes
+  "title.markup": { color: p.red, font_weight: 700 },  // Headings (all levels)
+  "text.literal.markup": { color: p.green },           // Inline code
+  "punctuation.embedded.markup": { color: p.orange },  // Fenced code language identifier
+  "punctuation.list_marker.markup": { color: p.red },
+  "emphasis.markup": { color: p.fg, font_style: "italic" },
+  "emphasis.strong.markup": { color: p.fg, font_weight: 700 },
+  "link_text.markup": { color: p.purple },
+  "link_uri.markup": { color: p.blue, font_style: "italic" },
 });
 
 // =============================================================================

@@ -419,6 +419,34 @@
           },
           "variant": {
             "color": "#d699b6"
+          },
+          "title.markup": {
+            "color": "#e67e80",
+            "font_weight": 700
+          },
+          "text.literal.markup": {
+            "color": "#a7c080"
+          },
+          "punctuation.embedded.markup": {
+            "color": "#e69875"
+          },
+          "punctuation.list_marker.markup": {
+            "color": "#e67e80"
+          },
+          "emphasis.markup": {
+            "color": "#d3c6aa",
+            "font_style": "italic"
+          },
+          "emphasis.strong.markup": {
+            "color": "#d3c6aa",
+            "font_weight": 700
+          },
+          "link_text.markup": {
+            "color": "#d699b6"
+          },
+          "link_uri.markup": {
+            "color": "#7fbbb3",
+            "font_style": "italic"
           }
         }
       }
@@ -839,6 +867,34 @@
           },
           "variant": {
             "color": "#d699b6"
+          },
+          "title.markup": {
+            "color": "#e67e80",
+            "font_weight": 700
+          },
+          "text.literal.markup": {
+            "color": "#a7c080"
+          },
+          "punctuation.embedded.markup": {
+            "color": "#e69875"
+          },
+          "punctuation.list_marker.markup": {
+            "color": "#e67e80"
+          },
+          "emphasis.markup": {
+            "color": "#d3c6aa",
+            "font_style": "italic"
+          },
+          "emphasis.strong.markup": {
+            "color": "#d3c6aa",
+            "font_weight": 700
+          },
+          "link_text.markup": {
+            "color": "#d699b6"
+          },
+          "link_uri.markup": {
+            "color": "#7fbbb3",
+            "font_style": "italic"
           }
         }
       }
@@ -1259,6 +1315,34 @@
           },
           "variant": {
             "color": "#d699b6"
+          },
+          "title.markup": {
+            "color": "#e67e80",
+            "font_weight": 700
+          },
+          "text.literal.markup": {
+            "color": "#a7c080"
+          },
+          "punctuation.embedded.markup": {
+            "color": "#e69875"
+          },
+          "punctuation.list_marker.markup": {
+            "color": "#e67e80"
+          },
+          "emphasis.markup": {
+            "color": "#d3c6aa",
+            "font_style": "italic"
+          },
+          "emphasis.strong.markup": {
+            "color": "#d3c6aa",
+            "font_weight": 700
+          },
+          "link_text.markup": {
+            "color": "#d699b6"
+          },
+          "link_uri.markup": {
+            "color": "#7fbbb3",
+            "font_style": "italic"
           }
         }
       }
